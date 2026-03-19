@@ -17,10 +17,14 @@ The Azure Honeypot project aimed to establish a controlled environment for detec
 - IP database to map geolocation data
 
 ## Steps
-
 Step 1. Create an Azure account
+<br> </br>
 Step 2. Deploy a Virtual Machine
+<br> </br>
 Step 3. Generate Telemetry
+<br> </br>
 Step 4. Configure Sentinel
+<br> </br>
 Step 5. Integrate IP Data
+<br> </br>
 Step 6. Write KQL Script
