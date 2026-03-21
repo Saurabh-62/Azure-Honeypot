@@ -12,7 +12,7 @@ The Azure Honeypot project aimed to establish a controlled environment for detec
 - Development of critical thinking skills in cybersecurity
 
 ### Tools Used
-- Microsoft Azure for setting up the project and deploying a vunerable virtual machine
+- Microsoft Azure for setting up the project and deploying a vulnerable virtual machine
 - Microsoft Sentinel for log ingestion and analysis
 - IP database to map geolocation data
 
